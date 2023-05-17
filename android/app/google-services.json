@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1066973969170",
+    "project_id": "amazeing-internal-dev",
+    "storage_bucket": "amazeing-internal-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066973969170:android:e12c8baa1c3e1eb8f5d1cb",
+        "android_client_info": {
+          "package_name": "com.mazetales.maze_tales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066973969170-2dofqshfvji5tkv5mgl4k2fm008h2ev3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd5nI_x6TUvZE8jqHJ6FW2zyA5WhwYfa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066973969170-2dofqshfvji5tkv5mgl4k2fm008h2ev3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066973969170-53q1q00krasosbuut16r2m1dklg9b4ep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mazetales.mazeTales"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066973969170:android:56fdc44cabeb9e10f5d1cb",
+        "android_client_info": {
+          "package_name": "com.mazetales.maze_tales_multiplatform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066973969170-2dofqshfvji5tkv5mgl4k2fm008h2ev3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd5nI_x6TUvZE8jqHJ6FW2zyA5WhwYfa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066973969170-2dofqshfvji5tkv5mgl4k2fm008h2ev3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066973969170-53q1q00krasosbuut16r2m1dklg9b4ep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mazetales.mazeTales"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
